@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Stackable Body Parts and Organs</name>
+    <author>zhrock11</author>
+	<url>https://github.com/earthyturtle/StackableChunks</url>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>the1nk.stackablebodyparts</packageId>
+    <description>Stackable Body Parts and Organs
+
+Very simple mod - just makes a stack size of 10 for each body part/organ. Any ThingDef that inherits from BodyPartBase will be effected.
+
+Make sure to put this after any mods that add body parts!</description>
+<!-- 	<modDependencies>
+		<li>
+			<packageId>UnlimitedHugs.HugsLib</packageId>
+			<displayName>HugsLib</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=818773962</steamWorkshopUrl>
+		</li>
+	</modDependencies> -->
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	<!-- <li>UnlimitedHugs.HugsLib</li> -->
+	</loadAfter>
+</ModMetaData>
