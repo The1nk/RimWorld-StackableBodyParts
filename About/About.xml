@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Stackable Body Parts and Organs</name>
-    <author>zhrock11</author>
+    <author>the1nk</author>
 	<url>https://github.com/The1nk/RimWorld-StackableBodyParts</url>
 	<supportedVersions>
 		<li>1.2</li>
+		<li>1.3</li>
 	</supportedVersions>
 	<packageId>the1nk.stackablebodyparts</packageId>
     <description>Stackable Body Parts and Organs
@@ -14,6 +15,5 @@ Very simple mod - just makes a stack size of 10 for each body part/organ. Any Th
 Make sure to put this after any mods that add body parts!</description>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
-		<li>Ludeon.RimWorld.Royalty</li>
 	</loadAfter>
 </ModMetaData>
